@@ -1,8 +1,14 @@
+# Objective
+
+Provide baseline secure coding training to a group consisting of a mix of backgrounds and languages. Examples based around the Java secure coding guidelines and drawing from other languages/experiences as the instructor sees fit based on class needs.
+
 # Security Concepts Overview
 
 - CIA
 - IAAA
+
 - Defense in Depth (overlapping / compensating controls)
+
 - CWE -> CVE
   - this course focuses on preventing CWEs
 
