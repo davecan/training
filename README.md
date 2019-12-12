@@ -4,7 +4,7 @@ Provide baseline secure coding training to a group consisting of a mix of backgr
 
 # Security Concepts Overview
 
-(Given by Dave at whiteboard - ~ 1 hour give or take, at start of class)
+**Given by Dave at whiteboard - ~ 1 hour give or take, at start of class**
 
 - CIA
 - IAAA
@@ -50,7 +50,7 @@ Provide baseline secure coding training to a group consisting of a mix of backgr
     - But remember Law of Leaky Abstractions
 
 
-Instructor covers the rest, we tie back to principles above as class proceeds.
+**Instructor covers the rest below, we tie back to principles above as class proceeds.**
 
 
 # Injection & Input Validation
