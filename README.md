@@ -93,7 +93,7 @@ Instructor covers the rest, we tie back to principles above as class proceeds.
 
 14 - Ensure that SecureRandom is properly seeded
 
-## Less Important
+### Less Important
 
 11 - Do not use Object.equals() to compare cryptographic keys
 
