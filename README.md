@@ -4,7 +4,7 @@ Provide baseline secure coding training to a group consisting of a mix of backgr
 
 # Security Concepts Overview
 
-**Given by Dave at whiteboard - ~ 1 hour give or take, at start of class**
+**Given by Dave at whiteboard - ~ 1 hour or less ideally, at start of class**
 
 - CIA
 - IAAA
