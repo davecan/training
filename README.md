@@ -2,7 +2,7 @@
 
 Provide baseline secure coding training to a group consisting of a mix of backgrounds and languages. Examples based around the Java secure coding guidelines and drawing from other languages/experiences as the instructor sees fit based on class needs.
 
-# Security Concepts Overview
+# Security Concepts Overview (Dave - ~ 1 hour give or take, at start of class)
 
 - CIA
 - IAAA
