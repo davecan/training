@@ -50,6 +50,8 @@ Provide baseline secure coding training to a group consisting of a mix of backgr
     - But remember Law of Leaky Abstractions
 
 
+Instructor covers the rest, we tie back to principles above as class proceeds.
+
 
 # Injection & Input Validation
 
