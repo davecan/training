@@ -4,8 +4,6 @@ Provide baseline secure coding training to a group consisting of a mix of backgr
 
 # Security Concepts Overview
 
-**Given by Dave at whiteboard - ~ 1 hour or less ideally, at start of class**
-
 - CIA
 - IAAA
 
@@ -22,10 +20,6 @@ Provide baseline secure coding training to a group consisting of a mix of backgr
 
 - Trust Boundaries
   - Define and manage them w/ clear APIs
-  - Ex:
-    - Draw microservice A & B topology
-    - Draw trust boundaries around each, and the platform + apps overall
-    - Mention we could draw "boundaries" enclosing each user -> app path also, to show isolation from other app users
 
 - Mediated Access
   - Control access & data flow across your trust boundaries
@@ -48,9 +42,6 @@ Provide baseline secure coding training to a group consisting of a mix of backgr
     - Use simple well-defined interfaces & functions (see #35)
     - Makes mediated access easier
     - But remember Law of Leaky Abstractions
-
-
-**Instructor covers the rest below, we tie back to principles above as class proceeds.**
 
 
 # Injection & Input Validation
@@ -255,7 +246,7 @@ Provide baseline secure coding training to a group consisting of a mix of backgr
 
 # Less Important (maybe briefly mention these)
 
-(some are edge cases or use threading, in others the attacker needs access for these & they probably want to do more interesting things at that point)
+(some are edge cases, in others the attacker needs access for these & they probably want to do more interesting things at that point)
 
 10 - Do not use the clone() method to copy untrusted method parameters
    - attacker creating a new class seems unlikely in our case
@@ -280,8 +271,6 @@ Provide baseline secure coding training to a group consisting of a mix of backgr
 
 
 # Unnecessary
-
-(unless you disagree or someone specifically requests discussion during class, which I doubt)
 
 9 - Prevent LDAP injection
   - we don't manage our own Active Directory or query it
